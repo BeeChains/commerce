@@ -109,8 +109,8 @@ export default function Home({
         ))}
       </Marquee>
       <Hero
-        headline="Release Details: 'IINC'"
-        description="
+        headline=" 'IINC'"
+        description=" 
         Inner I Net Company"
       />
       <Grid layout="B">
